@@ -1,0 +1,24 @@
+.cast-div {
+  min-height: 330px;
+  max-height: max-content;
+  width: 200px;
+  padding: 5px;
+  margin: auto;
+  color: white;
+}
+
+.cast-div img {
+  height: 250px;
+  width: 200px;
+}
+
+.cast-div.p {
+  font-size: 14px;
+}
+
+.name,
+.character {
+  font-size: 18px;
+  padding: 0;
+  margin: 5px 2px;
+}

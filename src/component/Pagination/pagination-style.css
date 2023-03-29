@@ -1,0 +1,14 @@
+.pag-nav ul {
+  position: fixed;
+  bottom: 3%;
+  right: 50%;
+  z-index: 99;
+  left: 50%;
+  margin: 5px auto;
+}
+
+@media only screen and (max-width: 490px) {
+  .pag-nav ul {
+    left: 39% !important;
+  }
+}
